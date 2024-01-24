@@ -16,6 +16,6 @@ template:
 spec:
  containers:
  - name: custom
-   image: docker6767/image
+   image: mdaliashrafi56/project2
    ports:
    - containerPort: 80
